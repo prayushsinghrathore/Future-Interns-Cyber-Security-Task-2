@@ -1,4 +1,11 @@
 # Phishing Email Detection & Awareness System
+![Cyber Security](https://img.shields.io/badge/Cyber-Security-blue)
+
+![Future Interns](https://img.shields.io/badge/Future-Interns-green)
+
+![Project](https://img.shields.io/badge/Project-Phishing%20Detection-red)
+
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## 📌 Overview
 
