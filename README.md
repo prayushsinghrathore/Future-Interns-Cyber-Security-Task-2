@@ -61,7 +61,18 @@ PHISHING
 Download the PDF from this repository.
 
 ---
+## 📄 Project Files
+
+- 📘 [Project Report (PDF)](Phishing_Email_Detection_Awareness_Report.pdf)
+- 📝 [Project Report (DOCX)](Phishing_Email_Detection_Awareness_Report.docx)
+- 📷 [Screenshots & Evidence](screenshot_proof.pdf)
 
 ## 👨‍💻 Author
 
-Pratyush Singh Rathore
+**Pratyush Singh Rathore**
+
+Cyber Security Enthusiast
+
+MNNIT Allahabad
+
+Future Interns Cyber Security Intern
