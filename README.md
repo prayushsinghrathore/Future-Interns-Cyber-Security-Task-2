@@ -1,11 +1,14 @@
-# Phishing Email Detection & Awareness System
-![Cyber Security](https://img.shields.io/badge/Cyber-Security-blue)
+# 📧 Phishing Email Detection & Awareness System
 
-![Future Interns](https://img.shields.io/badge/Future-Interns-green)
+![Cyber Security](https://img.shields.io/badge/Cyber-Security-blue?style=for-the-badge)
+![Phishing Analysis](https://img.shields.io/badge/Phishing-Analysis-red?style=for-the-badge)
+![Email Security](https://img.shields.io/badge/Email-Security-blueviolet?style=for-the-badge)
+![Risk Assessment](https://img.shields.io/badge/Risk-Assessment-orange?style=for-the-badge)
+![Security Awareness](https://img.shields.io/badge/Security-Awareness-success?style=for-the-badge)
+![Future Interns](https://img.shields.io/badge/Future-Interns-2026-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-![Project](https://img.shields.io/badge/Project-Phishing%20Detection-red)
-
-![Status](https://img.shields.io/badge/Status-Completed-success)
+Professional Phishing Email Detection & Awareness Report created as part of the Future Interns Cyber Security Internship.
 
 ## 📌 Overview
 
